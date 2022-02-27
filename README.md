@@ -16,3 +16,4 @@ __slightly more specific components:__
 - [Wago 2604-1302](https://www.conrad.at/de/p/wago-2604-1302-printklemme-4-mm-polzahl-num-2-1-st-2189616.html)  
 - [Switch YSS-120](https://www.conrad.at/de/p/tru-components-yss-1210-schiebeschalter-6-v-dc-0-3-a-2-x-aus-ein-1-st-1570487.html)  
 - [Rotary Encoder](https://www.reichelt.at/at/en/alps-stec12e-rotary-pulse-encoder-24-24-vert-w-pb-stec12e08-p73923.html?&trstct=pos_0&nbc=1)  
+- [USB-C Socket](https://www.amazon.de/gp/product/B09FPZDDD9/ref=crt_ewc_title_dp_1?ie=UTF8&psc=1&smid=A1QIE7X6JO9YR9)  
