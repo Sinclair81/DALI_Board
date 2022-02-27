@@ -3,7 +3,7 @@
 [![donate](https://img.shields.io/badge/donate-PayPal-blue.svg)](https://www.paypal.me/Sinclair81)
 
 <!-- markdownlint-disable MD033 -->
-<img src="https://raw.githubusercontent.com/Sinclair81/DALI_Board/master/DALI_2022_D_vF.png" align="right" alt="PCB" height="448" width="207">
+<img src="https://raw.githubusercontent.com/Sinclair81/DALI_Board/master/DALI_2022_D_vF.png" align="right" alt="PCB" height="192" width="250">
 <!-- markdownlint-enable MD033 -->
 
 A PCB with a 16V DALI power supply and DALI interface to commission and/or control DALI lamps.  
